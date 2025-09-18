@@ -25,8 +25,8 @@ Run, jump, and explore classic platformer levels powered by smooth mechanics, re
 
 Install dependencies:
 
-pip show pygame
-pip show scipy
+pip install scipy pygame
+
 
 ▶️ Run the Game
 
