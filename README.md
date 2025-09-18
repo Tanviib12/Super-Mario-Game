@@ -68,6 +68,7 @@ python main.py
 <img width="2880" height="1800" alt="Super Mario Game" src="https://github.com/user-attachments/assets/100c6a2c-d4a6-4bb9-a5ac-4026549dcd9f" />
 
 
+<img width="1270" height="1016" alt="image" src="https://github.com/user-attachments/assets/6bb391ea-cb65-43d0-bfd0-d00761d71baa" />
 
 
 
