@@ -4,6 +4,9 @@ A retro-style Super Mario clone built with Python and Pygame.
 Run, jump, and explore classic platformer levels powered by smooth mechanics, retro sprites, and fun sound effects. Perfect for learning game development and Pygame basics.
 
 
+
+
+
 🎮 Features
 
 • Classic 2D platformer gameplay
@@ -13,6 +16,10 @@ Run, jump, and explore classic platformer levels powered by smooth mechanics, re
 • Smooth controls (jump, run, boost)
 
 • Organized modular code for easy learning & modification
+
+
+
+
 
 
 🚀 Requirements
@@ -28,9 +35,17 @@ Install dependencies:
 pip install scipy pygame
 
 
+
+
+
+
 ▶️ Run the Game
 
 python main.py
+
+
+
+
 
 
 ⌨️ Controls
@@ -44,9 +59,25 @@ python main.py
 • Mouse click → Hidden actions
 
 
+
+
+
+
 📸 Preview
 
 <img width="2880" height="1800" alt="Super Mario Game" src="https://github.com/user-attachments/assets/100c6a2c-d4a6-4bb9-a5ac-4026549dcd9f" />
+
+
+
+
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request.
+
+
+
 
 
 📜 License
