@@ -1,4 +1,4 @@
-#🏰 Super Mario in Python
+🏰 Super Mario in Python
 
 A retro-style Super Mario clone built with Python and Pygame.
 Run, jump, and explore classic platformer levels powered by smooth mechanics, retro sprites, and fun sound effects. Perfect for learning game development and Pygame basics.
